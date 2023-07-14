@@ -7,13 +7,13 @@
 
 body{
     margin: 0;
-    background-color: #cd094e;
+    background-color: #050405;
      font-family: "Poppins", sans-serif;
 }
 
 header{
-    background-color: #0615de;
-    padding: 1rem;
+    background-color: #4d4d4ef3;
+    padding: 0.57rem;
     display: flex;
     justify-content: flex-end;
 }
@@ -22,14 +22,14 @@ header{
 padding: 0.5rem 1rem;
 border-radius: 50px;
 border: 2px solid #22254b;
-background-color: transparent;
+background-color:#f0e15c;;
 font-family: inherit;
 color: #eee;
 font-size: 1rem;
 }
 
 .search::placeholder{
-    color: #afb2dc;
+    color: #15151b;
 }
 
 .search:focus{
@@ -50,7 +50,7 @@ main{
     box-shadow: 0 4px 5px rgba(0,0,0,0.2);
     border-radius: 3px;
     width: 300px;
-    background-color: #0d1dd2;
+    background-color: #bec92d;
     margin: 1rem;
     overflow: hidden;
     position: relative;
